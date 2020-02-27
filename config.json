@@ -1,0 +1,29 @@
+{
+  "server1" :
+  {
+    "name" : "name1",
+    "id" : "3385"
+  },
+
+  "server2" :
+  {
+    "name" : "name2",
+    "id" : "3385"
+  },
+
+  "server3" :
+  {
+    "name" : "name3",
+    "id" : "3385"
+  },
+
+  "server4" :
+  {
+    "name" : "name4",
+    "id" : "3385"
+  },
+
+  "url" : "https://api.rust-servers.info",
+  "token" : "",
+  "prefix"  : "!"
+}
